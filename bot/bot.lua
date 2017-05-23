@@ -130,7 +130,7 @@ function create_config( )
     enabled_plugins = {
     "core"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {354977637},--Sudo users
     info_text = [[*》Beyond Messenger V1.0*
 `》An messenger bot based on plugin`
 
